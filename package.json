@@ -23,7 +23,7 @@
     "chartjs-plugin-datalabels": "^0.3.0",
     "express": "^4.15.3",
     "lodash": "^4.17.10",
-    "nuxt": "^1.0.0",
+    "nuxt": "^3.0.0",
     "papaparse": "^4.6.0",
     "vee-validate": "^2.1.0-beta.1",
     "vue-chartkick": "^0.4.0",
@@ -34,10 +34,10 @@
     "cross-env": "^5.0.1",
     "babel-eslint": "^8.2.1",
     "eslint": "^4.15.0",
-    "eslint-loader": "^1.7.1",
+    "eslint-loader": "^4.0.2",
     "eslint-plugin-vue": "^4.0.0",
     "stylus": "^0.54.5",
-    "stylus-loader": "^3.0.1",
+    "stylus-loader": "^7.1.0",
     "nodemon": "^1.11.0"
   }
 }
